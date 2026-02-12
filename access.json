@@ -1,1 +1,6 @@
-{"isAppEnabled": true, "message": "אפליקציית AniPlus פעילה", "minVersion": "1.0.0", "lastUpdated": "2024-02-13T10:00:00Z"}
+{
+  "isAppEnabled": true,
+  "message": "אפליקציית AniPlus פעילה",
+  "minVersion": "1.0.0",
+  "maxVersion": "2.0.0"
+}
