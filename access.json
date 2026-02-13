@@ -1,5 +1,5 @@
 {
-  "isAppEnabled": False,
+  "isAppEnabled": false,
   "message": "אפליקציית AniPlus פעילה",
   "minVersion": "1.0.0",
   "maxVersion": "2.0.0"
